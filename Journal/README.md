@@ -1,0 +1,1 @@
+O Journal registra cronologicamente a evolução intelectual, científica e tecnológica do Projeto Prisma.

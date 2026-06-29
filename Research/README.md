@@ -1,0 +1,1 @@
+Esta pasta conterá toda a pesquisa científica, entrevistas, validações e referências bibliográficas utilizadas durante o desenvolvimento do Projeto Prisma.

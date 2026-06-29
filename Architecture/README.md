@@ -1,0 +1,1 @@
+Esta pasta conterá toda a arquitetura técnica do Projeto Prisma. Nenhuma decisão arquitetural poderá contrariar a Biblioteca Fundacional.
