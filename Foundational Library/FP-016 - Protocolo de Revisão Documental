@@ -1,0 +1,69 @@
+Projeto Prisma
+
+Biblioteca Fundacional
+
+FP-016
+
+Protocolo de Revisão Documental
+
+Objetivo
+
+Estabelecer o procedimento oficial para revisão, atualização e evolução dos documentos da Biblioteca Fundacional do Projeto Prisma.
+
+Versão: 0.2
+
+Status: Documento Fundacional
+
+PERGUNTAS QUE NORTEIAM ALTERAÇÕES EM DOCUMENTOS DO PROJETO PRISMA
+Nenhum documento pertencente à Biblioteca Fundacional deverá ser alterado sem que este protocolo seja aplicado.
+As revisões documentais fazem parte da etapa "Documentar" do Método Prisma
+
+1. Coerência institucional
+O documento está alinhado com a Missão do Projeto Prisma?
+Respeita a Constituição?
+Está coerente com o Manifesto?
+Respeita a Primeira Regra do Projeto Prisma?
+Mantém o foco na autonomia do psicólogo?
+
+2. Coerência científica
+Há afirmações que precisam de evidências?
+As referências utilizadas continuam atuais?
+As referências são provenientes de fontes confiáveis e reconhecidas?
+Existe alguma conclusão precipitada?
+O documento diferencia fatos, hipóteses e objetivos?
+
+3. Coerência técnica
+A estrutura está organizada?
+A numeração faz sentido?
+Os conceitos estão consistentes com os outros documentos?
+Existem termos que deveriam ir para o Glossário (FP-005)?
+Este documento cria dependência de outro documento que ainda não existe?
+
+4. Coerência ética
+Algum trecho pode ser interpretado como substituição do psicólogo?
+Existe algum risco de indução clínica?
+O documento respeita os princípios da Centralidade Humana?
+Existe algum impacto potencial não intencional sobre pacientes, psicólogos ou demais pessoas envolvidas que ainda não foi considerado?
+
+5. Qualidade documental
+O título representa bem o conteúdo?
+O documento tem um objetivo claro?
+Está fácil de ler?
+A linguagem está profissional?
+
+6. Evolução
+Este documento ainda representa o estado atual do Projeto Prisma?
+Há decisões mais recentes que deveriam estar refletidas nele?
+Existe alguma inconsistência com documentos publicados posteriormente?
+
+7. Redundância
+Qual papel este documento desempenha que ainda não é desempenhado por nenhum outro?
+
+Decisão Final
+Após responder às perguntas deste documento, a alteração proposta deverá resultar em uma das seguintes decisões:
+
+Aprovar a alteração.
+Aprovar com ajustes.
+Adiar para pesquisa adicional.
+Encaminhar para pesquisa adicional (RP).
+Rejeitar a alteração.

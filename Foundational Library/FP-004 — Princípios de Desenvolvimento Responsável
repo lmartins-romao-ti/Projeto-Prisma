@@ -1,0 +1,72 @@
+Projeto Prisma
+
+Biblioteca Fundacional
+
+FP-004
+
+Princípios de Desenvolvimento Responsável
+
+Versão: 0.1
+
+Status: Documento Fundacional
+
+O Método Prisma
+
+O desenvolvimento do Projeto Prisma não segue apenas práticas tradicionais de Engenharia de Software.
+
+Cada funcionalidade, documento, hipótese ou componente tecnológico deverá respeitar uma sequência de desenvolvimento que prioriza a compreensão do problema humano antes da implementação da solução tecnológica.
+
+COMPREENDER
+
+↓
+
+PESQUISAR
+
+↓
+
+DOCUMENTAR
+
+↓
+
+VALIDAR
+
+↓
+
+IMPLEMENTAR
+
+↓
+
+OBSERVAR
+
+↓
+
+APRENDER
+
+↓
+
+COMPREENDER
+
+1.
+Compreender
+
+Antes de qualquer implementação, deve-se compreender profundamente o problema humano que se pretende resolver.
+
+2.
+Pesquisar
+
+Levantar evidências científicas, soluções existentes, limitações e riscos.
+
+3.
+Documentar
+
+Registrar hipóteses, decisões, justificativas e impactos.
+
+4.
+Validar
+
+Submeter a ideia à avaliação de especialistas, usuários ou evidências disponíveis.
+
+5.
+Implementar
+
+Somente após as etapas anteriores inicia-se o desenvolvimento técnico.

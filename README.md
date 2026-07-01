@@ -13,6 +13,8 @@ Status
 
 🔬 Em pesquisa e desenvolvimento
 
+O Projeto Prisma encontra-se em fase de pesquisa, estruturação documental e validação conceitual. A Biblioteca Fundacional está sendo construída para estabelecer os princípios que orientarão todas as decisões futuras do projeto.
+
 --------------------------------------------------------
 
 Projeto interdisciplinar que integra:
@@ -40,4 +42,39 @@ FP-008 — Carta ao Futuro Desenvolvedor
 FP-009 — Livro da História do Projeto Prisma
 FP-010 — Caderno de Validação Científica
 FP-011 — Registro da Evolução Intelectual
+FP-012 - Compromisso Científico do Projeto Prisma
+FP-013 - Princípios da Centralidade Humana
+FP-014 - Perguntas Fundadoras do Projeto Prisma
+FP-015 - Antes do Código
+FP-016 - Protocolo de Revisão Documental
 FP-999 — Memória Institucional
+
+Metodologia do Projeto Prisma
+
+Compreender
+
+↓
+
+Pesquisar
+
+↓
+
+Documentar
+
+↓
+
+Validar
+
+↓
+
+Implementar
+
+↓
+
+Observar
+
+↓
+
+Aprender
+
+↺

@@ -1,0 +1,67 @@
+1. Introdução
+Este documento estabelece os princípios fundamentais que nortearão o desenvolvimento da plataforma desde sua concepção. Seu objetivo é garantir que todas as decisões técnicas, científicas e estratégicas estejam alinhadas com a ética profissional, a governança de IA, a Engenharia de Software e a proteção dos direitos dos pacientes.
+
+2. Missão
+Desenvolver uma plataforma inteligente de apoio à decisão clínica que auxilie psicólogos na organização, análise e interpretação de informações clínicas, preservando integralmente a autonomia profissional, a ética da prática psicológica, a segurança das informações e a privacidade dos pacientes.
+
+3. Visão
+Ser uma plataforma de referência em apoio inteligente à prática psicológica, promovendo inovação responsável, baseada em evidências científicas, transparência, segurança e respeito à autonomia dos profissionais.
+
+4. Valores
+• Ética acima da tecnologia.
+• O profissional é insubstituível.
+• Transparência.
+• Ciência como fundamento.
+• Segurança e privacidade.
+• IA responsável.
+• Evolução baseada em evidências.
+• Respeito à diversidade das abordagens psicológicas.
+
+5. Princípios Fundamentais
+
+5.1 A autoridade clínica pertence ao psicólogo
+O sistema jamais substituirá o julgamento profissional do psicólogo. Toda análise será apresentada como hipótese ou sugestão.
+
+5.2 A plataforma não realiza diagnóstico
+A plataforma organiza informações, identifica padrões e apoia o raciocínio clínico, sem emitir diagnósticos.
+
+5.3 Explicabilidade
+Toda recomendação deverá possuir justificativa compreensível.
+
+5.4 Transparência
+O usuário deverá conhecer dados utilizados, limitações e origem das recomendações.
+
+5.5 Privacidade e proteção dos dados
+Uso de criptografia, anonimização, auditoria e conformidade legal.
+
+5.6 Não indução da decisão clínica
+O sistema apresentará hipóteses, não imporá conclusões.
+
+5.7 Neutralidade científica
+Nenhuma abordagem será favorecida por motivos tecnológicos ou comerciais.
+
+5.8 Supervisão humana obrigatória
+Nenhuma decisão clínica será automatizada.
+
+5.9 Rastreabilidade e auditoria
+Todas as recomendações e versões dos modelos deverão ser registradas.
+
+5.10 Evolução baseada em evidências
+Toda evolução dependerá de validação científica e participação de psicólogos.
+
+6. Linhas Vermelhas
+•	Substituir o psicólogo na decisão clínica.
+•	Emitir diagnósticos psicológicos ou psiquiátricos.
+•	Realizar atendimento psicológico autônomo.
+•	Emitir laudos em nome do profissional.
+•	Sugerir prescrições medicamentosas.
+•	Ocultar a origem das recomendações.
+•	Inventar referências científicas.
+•	Alterar registros clínicos sem autorização.
+•	Compartilhar dados clínicos sem consentimento e respaldo legal.
+•	Treinar modelos com dados de pacientes sem autorização apropriada.
+•	Favorecer interesses comerciais sobre evidências científicas.
+•	Induzir o profissional a uma única linha terapêutica.
+
+7. Cláusula Fundamental
+Em caso de conflito entre inovação tecnológica e princípios éticos, prevalecerão sempre os princípios éticos. A tecnologia deverá adaptar-se à ética, nunca o contrário.
