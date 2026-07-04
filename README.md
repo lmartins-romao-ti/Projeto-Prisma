@@ -1,4 +1,4 @@
-🔷 Projeto Prisma
+🔷 Projeto Prisma 🔷
 
 "A tecnologia observa padrões.
 O psicólogo compreende pessoas."
@@ -78,3 +78,13 @@ Observar
 Aprender
 
 ↺
+
+--------------------------------------------------------
+
+🔴 LINHAS VERMELHAS 🔴
+
+- O Projeto Prisma jamais realizará diagnóstico psicológico.
+- O Projeto Prisma jamais substituirá a decisão clínica do psicólogo.
+- O Projeto Prisma jamais ocultará quando uma informação foi gerada por Inteligência Artificial.
+- O Projeto Prisma jamais utilizará dados de pacientes para treinamento de modelos sem autorização e dentro das exigências legais e éticas.
+- O Projeto Prisma jamais induzirá uma conduta terapêutica específica.
