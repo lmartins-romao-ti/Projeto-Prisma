@@ -81,7 +81,7 @@ Aprender
 
 --------------------------------------------------------
 
-🔴 LINHAS VERMELHAS 🔴
+🔴 COMPROMISSOS INEGOCIÁVEIS 🔴
 
 - O Projeto Prisma jamais realizará diagnóstico psicológico.
 - O Projeto Prisma jamais substituirá a decisão clínica do psicólogo.
