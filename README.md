@@ -47,6 +47,8 @@ Biblioteca Fundacional
 - FP-014 - Perguntas Fundadoras do Projeto Prisma
 - FP-015 - Antes do Código
 - FP-016 - Protocolo de Revisão Documental
+- FP-017 - O que NÃO é o Projeto Prisma
+- FP-018 - Princípios Evolutivos do Projeto Prisma
 - FP-999 — Memória Institucional
 
 Metodologia do Projeto Prisma
